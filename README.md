@@ -20,3 +20,4 @@ Additionally, there are other classes that contribute to the segmentation proces
 
 To assess the performance of the segmentation models, we employ the COCO Panoptic Extension. This extension facilitates comprehensive evaluation by considering both stuff (e.g., background) and things (e.g., objects) in the segmentation process. The use of the COCO Panoptic Extension allows for a more nuanced and thorough benchmarking process, ensuring that the developed model meets the specific requirements of historical document segmentation.
 
+![pfee_example](https://github.com/Rickil/French_national_library_project/assets/38404628/d1771d3f-6256-48e8-8eaa-c79d05b38009)
